@@ -8,7 +8,7 @@
 </div>
 
 ###
-<div>
+<div style="display:flex">
 <img align="center"
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdodnQ1dXFqbjliOG51ZDlsMDR1NDhjbmtkZzFkNnVpbmU3YTAwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCmc21BKYUuC2A6p8H/giphy.gif"  />
 
