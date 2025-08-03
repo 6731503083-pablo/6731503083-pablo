@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello, I am Phyo Wai Yan Lin Zaw but just call me Pablo.</h2>
+  <h2>Hello, I am Phyo Wai Yan Lin Zaw.</h2>
   <p>A passionate developer from Thailand.</p>
 </div>
 
