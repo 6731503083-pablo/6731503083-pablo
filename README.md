@@ -8,9 +8,20 @@
 </div>
 
 ###
-
+<div>
 <img align="center"
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdodnQ1dXFqbjliOG51ZDlsMDR1NDhjbmtkZzFkNnVpbmU3YTAwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCmc21BKYUuC2A6p8H/giphy.gif"  />
+
+<div align="left">
+  <a href="6731503083@lamduan.mfu.ac.th" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+</div>
+</div>
+
 
 ###
 
@@ -30,14 +41,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdodnQ1dXFqbjliOG51ZDlsMDR1ND
 
 ###
 
-<div align="left">
-  <a href="6731503083@lamduan.mfu.ac.th" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
-</div>
+
 
 ###
 
